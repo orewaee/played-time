@@ -1,0 +1,8 @@
+name: PlayedTime
+main: dev.orewaee.Main
+version: 0.1.0
+api-version: 1.20
+commands:
+    playedtime:
+        description: Allows you to get played time
+        aliases: [pt]
